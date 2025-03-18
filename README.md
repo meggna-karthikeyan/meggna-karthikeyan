@@ -5,13 +5,11 @@
 
 ## 🛠 About Me
 
-I thrive at the intersection of **data engineering, cloud computing, and automation**, transforming raw data into **actionable insights**. With a strong foundation in **GCP, AWS, Python, SQL, and big data technologies**, I specialize in building **scalable, efficient, and secure data pipelines** that drive business impact. 
+I engineer **scalable, efficient, and secure** data pipelines at the crossroads of **data engineering, cloud computing, and automation**. With expertise in **GCP, AWS, Python, and big data technologies**, I optimize **ETL workflows, automate CI/CD, and enhance cloud security** to drive real-world impact.  
 
-My journey spans from **engineering robust data workflows** at Cognizant—where I optimized **ETL processes, automated CI/CD pipelines, and enhanced cloud security**—to conducting **cutting-edge research** in **gravitational wave signal analysis** at UMass Dartmouth. I am passionate about **leveraging data-driven strategies to solve real-world problems**, whether in industry-scale data migration projects or in astrophysics research.
+From **streamlining enterprise data solutions at Cognizant** to **advancing gravitational wave research at UMass Dartmouth**, I thrive on solving complex data challenges. Passionate about **data-driven strategies, automation, and analytics**, I turn raw data into **powerful insights** that fuel innovation.  
 
-Beyond technical expertise, I excel in **problem-solving, leadership, and collaboration**, always seeking innovative ways to optimize **data infrastructure and analytics**. Whether it's building **high-performance data solutions**, fine-tuning **machine learning models**, or automating **cloud-based workflows**, I am driven by the challenge of making **complex data systems simple and powerful**.
-
-🚀 **Let’s innovate, automate, and build the future of data together!**
+🚀 **Let’s optimize, automate, and redefine the future of data together!**
 
 
 ## 🌐 Socials:
