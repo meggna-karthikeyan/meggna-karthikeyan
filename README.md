@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Meggna Karthikeyan!
 
 🚀 **Data Engineer | Data Analyst | Researcher | Problem-Solver**  
-📍 North Dartmouth, Massachusetts | ✉️ [Email Me](mailto:kmeggna@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/meggnakarthikeyan/)
+📍 North Dartmouth, Massachusetts | ✉️ [Email Me](mailto:kmeggna@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/meggnakarthikeyan/) | 💼 [Portfolio](https://meggna-karthikeyan.github.io/)
 
 ## 🛠 About Me
 
