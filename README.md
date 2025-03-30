@@ -42,7 +42,8 @@ From **streamlining enterprise data solutions at Cognizant** to **advancing grav
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white) 
 ![EDH](https://img.shields.io/badge/Enterprise%20Data%20Hub-0078D4.svg?style=for-the-badge&logo=databricks&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
+![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
 
 ## 📜 Certifications
  
