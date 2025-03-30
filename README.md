@@ -11,9 +11,10 @@ From **streamlining enterprise data solutions at Cognizant** to **advancing grav
 
 🚀 **Let’s optimize, automate, and redefine the future of data together!**
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meggnakarthikeyan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmeggna@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meggnakarthikeyan/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmeggna@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?logo=githubpages&logoColor=white)](https://meggna-karthikeyan.github.io/)
 
 ## 💻 Tech Stack:
 
@@ -64,4 +65,3 @@ I'm always open to **collaborations, discussions, and exciting opportunities** i
 💡 _"Turning data into powerful insights, one pipeline at a time."_  
 
 Thanks for visiting my GitHub! 🚀 **Happy Coding!** 👩‍💻✨
-
