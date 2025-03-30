@@ -53,7 +53,10 @@ From **streamlining enterprise data solutions at Cognizant** to **advancing grav
 - **Data Analysis with Python**: [View](https://courses.cognitiveclass.ai/certificates/dc0f0ee55c7f4fbd9ee3d3d120be5105)  
 - **HackerRank SQL (Basic & Intermediate)**: [View](https://www.hackerrank.com/certificates/iframe/4fdec9600bdf)  
 - **Power BI Certification**: [View](https://learn.microsoft.com/api/achievements/share/en-us/MeggnaKarthikeyan-2629/UXS6HP23?sharingId=C2CE7D30C2056B35)  
-- **Databricks Fundamentals**: [View](https://credentials.databricks.com/9c399bcd-c90f-4377-bcf7-eef0004497df#acc.S0CEHlwv)  
+- **Databricks Fundamentals**: [View](https://credentials.databricks.com/9c399bcd-c90f-4377-bcf7-eef0004497df#acc.S0CEHlwv)
+- **Atlassian Agile Project Management**: [View](https://www.linkedin.com/learning/certificates/3b1bb1abe78d1743c61218833f112a5e5f19bb8ce6f8ca4df28ec610db398717)  
+- **Business Analysis Fundamentals**: [View](https://www.coursera.org/verify/N3R9BQ1A4CAB)
+
 
 ## 🚀 Let's Connect!
 
