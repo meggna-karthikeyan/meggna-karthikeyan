@@ -64,7 +64,7 @@ I'm always open to **collaborations, discussions, and exciting opportunities** i
 
 ✉️ **Email:** [kmeggna@gmail.com](mailto:kmeggna@gmail.com)  
 🔗 **LinkedIn:** [meggnakarthikeyan](https://www.linkedin.com/in/meggnakarthikeyan/)  
-💼 **Portfolio:** (Coming Soon!)  
+💼 **Portfolio:** [Meggna Karthikeyan](https://meggna-karthikeyan.github.io/)
 
 💡 _"Turning data into powerful insights, one pipeline at a time."_  
 
