@@ -61,7 +61,7 @@ From **streamlining enterprise data solutions at Cognizant** to **advancing grav
 
 I'm always open to **collaborations, discussions, and exciting opportunities** in the fields of **Data Engineering, Cloud Computing, Big Data, and Research**. If you’d like to discuss a project, share insights, or just geek out about **data and automation**, feel free to reach out! 
 
-✉️ **Email:** [kmeggna@gmail.com](mailto:kmeggna@gmail.com)  
+✉️ **Email:** [meggnakarthikeyan8@gmail.com](mailto:meggnakarthikeyan8@gmail.com)  
 🔗 **LinkedIn:** [meggnakarthikeyan](https://www.linkedin.com/in/meggnakarthikeyan/)  
 
 💡 _"Turning data into powerful insights, one pipeline at a time."_  
