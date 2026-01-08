@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Meggna Karthikeyan!
 
 🚀 **Data Engineer | Data Analyst | Researcher | Problem-Solver**  
-📍 North Dartmouth, Massachusetts | ✉️ [Email Me](mailto:kmeggna@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/meggnakarthikeyan/)
+📍 Boston, Massachusetts | ✉️ [Email Me](mailto:meggnakarthikeyan8@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/meggnakarthikeyan/)
 
 ## 🛠 About Me
 
@@ -13,7 +13,7 @@ From **streamlining enterprise data solutions at Cognizant** to **advancing grav
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meggnakarthikeyan/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmeggna@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meggnakarthikeyan8@gmail.com)
 
 ## 💻 Tech Stack:
 
